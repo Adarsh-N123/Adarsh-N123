@@ -1,9 +1,14 @@
+
+<p align="center">
+  <img src="https://64.media.tumblr.com/6c528dab5498d431a101acd4398160b4/tumblr_o7vrxl8Uk11runoqyo10_540.gifv" style="width:500px;">
+</p>
 <h1 align="center">Hi 👋, I'm NIDAMANURI SAI ADARSH</h1>
 <h3 align="center">ML ENTHUSIAST AND A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh-n123&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh-n123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarsh-n123" alt="adarsh-n123" /></a> </p>
+<img align="right" alt="Coding" width="300" style="border-radius:1rem;" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
 
 - 🌱 I’m currently learning **ML AND DEEP LEARNING BASICS**
 
