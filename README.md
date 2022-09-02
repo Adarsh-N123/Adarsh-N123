@@ -15,6 +15,8 @@
 - 📫 How to reach me **adarshkln5@gmail.com**
 
 - ⚡ Fun fact **LOVE WATCHING TV SERIES AND CODING.**
+- 👨‍💻**I'M CURRENT CORE MEMBER OF GOMYNO-CODING CLUB OF IIT GOA**
+- 👨‍💻 **I'M CURRENT CORE MEMBER OF ARCHITECHS-WEB DEVELOPMENT CLUB OF IIT GOA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
