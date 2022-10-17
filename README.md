@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/6c528dab5498d431a101acd4398160b4/tumblr_o7vrxl8Uk11runoqyo10_540.gifv" style="width:500px;">
+  <img src="https://i.pinimg.com/originals/7e/00/d6/7e00d6514d0556b617001d5fe0a62663.gif" style="width:500px;">
 </p>
 <h1 align="center">Hi 👋, I'm NIDAMANURI SAI ADARSH</h1>
 <h3 align="center">ML ENTHUSIAST AND A passionate frontend developer from India</h3>
